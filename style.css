@@ -218,6 +218,9 @@ p {
 
 .window-head {
   padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .window-head h2 {
@@ -227,6 +230,16 @@ p {
 .window-head p {
   color: #a7a7a7;
   font-size: 0.9rem;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.window-body p {
+  color: #a7a7a7;
 }
 
 .window-body h3 {
@@ -244,7 +257,7 @@ p {
 
 .select-item {
   display: flex;
-  gap: 0.5rem;
+  gap: 16px;
   padding: 0.2rem 0.8rem;
   cursor: pointer;
   border-bottom-left-radius: 5px;
