@@ -28,9 +28,8 @@ const hide = (element) => {
 const preventNewLine = (e) => {
   if (e.key === 'Enter' || e.keyCode === 13) {
     e.preventDefault();
-    if (currentH1) {
-      currentH1.blur();
-    }
+    if (currentH1) currentH1.blur();
+
     show(textGeneratorForm);
     textInput.focus();
   }
