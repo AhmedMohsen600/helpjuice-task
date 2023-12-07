@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Helpjuice Task</title>
+  </head>
+  <body>
+    <section class="breadcrumbs">
+      <img
+        class="arrow-right"
+        src="./images/MaterialSymbolsKeyboardDoubleArrowRight.svg"
+      />
+      <img
+        class="book-icon"
+        src="./images/TablerBook.svg"
+        alt="main page link"
+      />
+      <a href="#">Main</a>
+      <span>/</span>
+      <a href="#">Getting started</a>
+      <span>/</span>
+      <a href="#">Front-end developer test project</a>
+    </section>
+    <main>
+      <section id="blog-text-parent">
+        <div id="selected-item-parent"></div>
+        <form id="text-generator">
+          <input
+            id="text-input"
+            type="text"
+            placeholder="Type / for blocks, @ to link docs or people"
+          />
+        </form>
+        <div id="selection-window">
+          <div class="window-head">
+            <h2>Add blocks</h2>
+            <p>Keep typing to filter, or escape to exit</p>
+          </div>
+          <div class="window-body">
+            <h3>Filtering keyword <span id="keyword">1</span></h3>
+            <ul class="selectors">
+              <li dataset="h1" id="heading-one" class="select-item">
+                <img
+                  src="./images/TeenyiconsTextSolid.svg"
+                  alt="Text type heading"
+                />
+                <div>
+                  <h4>Heading 1</h4>
+                  <p>Shortcut: type # + space</p>
+                </div>
+              </li>
+              <li dataset="p" id="paragraph" class="select-item">
+                <img
+                  src="./images/TeenyiconsTextSolid.svg"
+                  alt="Text type heading"
+                />
+                <div>
+                  <h4>Paragraph</h4>
+                  <p>Shortcut: type # + space</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
