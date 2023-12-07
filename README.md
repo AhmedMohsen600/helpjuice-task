@@ -62,12 +62,11 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://helpjuice-notion.vercel.app/) Vercel
-- [Live Demo Link](https://adorable-unicorn-7adfd9.netlify.app/) Netlify
+- [Live Demo Link](https://helpjuice-task-kappa.vercel.app/) Vercel
 
 ## 🚀 Project Details
 
-- [Mohamed Khaled](https://github.com/z4cope/)
+- [Ahmed Mohsen](https://github.com/AhmedMohsen600/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -78,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 - Reach to following Github URL:
 
 ```
-https://github.com/z4cope/helpjuice-notion
+https://github.com/AhmedMohsen600/helpjuice-task
 
 ```
 
@@ -91,7 +90,7 @@ https://github.com/z4cope/helpjuice-notion
 - Paste the URL you copied earlier, and press "enter" to create your local clone.
 
 ```
-$ git clone https://github.com/z4cope/helpjuice-notion
+$ git clone https://github.com/AhmedMohsen600/helpjuice-task
 ```
 
 ## Start server
@@ -114,7 +113,7 @@ Clone this repository to your desired folder:
 
     _cd PATH_
 
-    _git clone https://github.com/z4cope/helpjuice-notion
+    _git clone https://github.com/AhmedMohsen600/helpjuice-task
 
 \_cd helpjuice-notion
 
@@ -134,8 +133,8 @@ To run the project, execute the following command:
 
 👤 **Ahmed Mohsen**
 
-- GitHub: [@Ahmed Mohsen](https://github.com/z4cope)
-- LinkedIn: [@Ahmed Mohsen](https://www.linkedin.com/in/mookhaled/)
+- GitHub: [@Ahmed Mohsen](https://github.com/AhmedMohsen600)
+- LinkedIn: [@Ahmed Mohsen](https://www.linkedin.com/in/ahmed-frontend/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +148,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/z4cope/helpjuice-notion/issues).
+Feel free to check the [issues page](https://github.com/AhmedMohsen600/helpjuice-task/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
